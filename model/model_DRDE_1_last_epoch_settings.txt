@@ -1,0 +1,1 @@
+{"last_best_epoch": 854, "last_epoch": 941}
