@@ -16,4 +16,4 @@ Ground truth:
 
 Here is the prediction after 200 epochs:
 
-<img src="images/drde_predict.png" alt="predicted result" class="inline" width="320" height="298" />
+<img src="images/drde_predict.png" alt="predicted result" class="inline" width="917" height="226" />
